@@ -15,9 +15,11 @@ The latest edition is always available for purchase at [https://leanpub.com/ai-4
 
 If you read my eBooks free online then please consider tipping me [https://markwatson.com/#tip](https://markwatson.com/#tip).
 
-This is a “live book:” there will never be a second edition. As I add material and make corrections, I simply update the book and the free to read online copy and all eBook formats for purchase get updated.
+This is a “live book”: there will never be a second edition. As I add material and make corrections, I simply update the book and the free-to-read online copy and people who purchase the book get notified that new versions of eBook formats are available.
 
+Most of the text in this book is my own but I do use LLMs to bounce ideas off of while writing and developing software and some LLM text does appear in this book. I usually run the Llama 3 model locally using the Ollama application but I also frequently use the ChatGPT Mac app, the Microsoft CoPilot web app, Perplexity, The Abacus.AI web app, and Claude. While LLMs are notorious for hallucinating answers I find them reliable for expressing my ideas to and asking for a reaction. When I ask LLMs to generate software (I program in Common Lisp, Racket, and Python) or text, I always check for accuracy and usually rewrite to suite my tastes.
 
+In the age of LLMs, I am not even sure how I feel about copyright issues. I publish software I write using the APache 2 open source license and I publish my eBooks using a share and share alike permissive Creative Commons license.
 
 ![Mark Watson](images/Mark.png)
 
