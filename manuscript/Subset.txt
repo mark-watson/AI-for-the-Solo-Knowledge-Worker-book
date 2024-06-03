@@ -1,1 +1,4 @@
 preface.md
+part1.md
+offshelf.md
+part2.md
