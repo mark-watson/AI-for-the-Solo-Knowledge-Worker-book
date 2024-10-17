@@ -1,4 +1,4 @@
-# A Brief Overview of Use Caes and Tools for the Solo Knowledge Worker
+# A Brief Overview of Use Cases and Tools for the Solo Knowledge Worker
 
 ## Introduction to AI for Knowledge Workers
 
